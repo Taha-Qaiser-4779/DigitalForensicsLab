@@ -5,7 +5,7 @@
 #####		(attached "registry mouse double click speed.png")
 2) C:\Windows\System32\calc.exe
 #####		(attached "registry typed paths.png")
-3) A value called "Malware" has been added to the startup programs to establish persistence over the system.
+3) A key called "Malware" has been added to the startup programs to establish persistence over the system. The value for that key is "C:\Users\w\Desktop\malware.exe"
 #####		(attached "registry malwarestartup.png")
 ---
 ## Q2)
@@ -20,8 +20,10 @@
 
 ---
 ## Q3)
-1) InvokeWebRequestCommand has been used by the attacker to download powershell script to the system called "download.ps1"
-#####		(attached "powershell task 1(1)" and "powershell task 1(2)")
-2) The script creates a new registry value called ScriptBlockLogging and sets the value of "EnableScriptBlockLogging" to 1
-#####		(attached "powershell task 2(1)" and "powershell task 2(2)")
+1) We can see that the invoke web request command was used to download a file called "file.ps1" onto the system. 
+
+		Invoke-WebRequest -UseBasicParsing -Uri https://raw.githubusercontent.com/vonderchild/digital-forensics-lab/main/Lab%202/files/file.ps1 -OutFile "file.ps1"
+	
+2) The script has two variables, one is a base64 encoded string called "data" and the second is the "flag" which is the decoded "data" variable. The script prints the flag variable.
+		flag{ev3nt_l0gs_f0r_th3_w1n}
 ---
