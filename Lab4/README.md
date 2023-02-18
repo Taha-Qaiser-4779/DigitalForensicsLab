@@ -23,7 +23,7 @@
   
     Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
 
-$ Q4
+# Q4
   
   (Referring to the output from Q2) The attacker has used sqlmap to find confidential information from the database.
   
