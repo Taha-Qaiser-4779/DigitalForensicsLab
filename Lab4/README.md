@@ -68,4 +68,4 @@
   - Any requests with path traversal/LFI payloads should be blocked (payloads like ../../)
   - Implement secure coding techiniques to block any functions/libraries that execute commands (like os or subprocess)
   - Block suspicious IPs like: 192.168.0.106
-  - Identify SQL injections based on 'union select' or 'user1\' and 1=1 #' payloads and block those malicious requests.
+  - Identify SQL injections based on 'union select' or 'user1\' and 1=1 #' payloads and block those malicious queries.
