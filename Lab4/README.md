@@ -43,7 +43,7 @@
     
 # Q7
 
-  Hey there! Just a heads up - if we don't add security checks to our web app, our top-secret files might as well be written on a billboard. And trust me, we don't want that kind of attention. So let's get those checks in place, okay? We wouldn't want the world to know that our password is 'sup3r_s3cr3t_4nd_1mp0rt4nt_p4ssw0rd', now would we? ;)
+  Hey there! Just a heads up - if we don't add security checks to our web app, our top-secret files might as well be written on a billboard. And trust me, we don't want that kind of attention. So let's get those checks in place, okay? We wouldn't want the world to know that our password is `sup3r_s3cr3t_4nd_1mp0rt4nt_p4ssw0rd` , now would we? ;)
 
 # Q8
 
