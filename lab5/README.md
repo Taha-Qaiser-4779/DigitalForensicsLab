@@ -11,8 +11,8 @@
 
 # Q2
 
-  The correct password is `batman`
-  ---
+  ### The correct password is `batman`
+  
   ![image](https://user-images.githubusercontent.com/118754984/220819918-f8df9b62-c9bc-49cf-9a6e-1aea98bf729a.png)
   ---
   
