@@ -29,7 +29,7 @@
   
 # Q5
   
-  The attacker was trying to access '/etc/passwd'
+  The attacker was trying to access '/etc/shadow'
   
 # Q6
   
