@@ -7,11 +7,12 @@
   
   ![image](https://user-images.githubusercontent.com/118754984/226388030-1984cea8-04a9-4dbc-81be-2f2e5c836a4e.png)
 
-  flag{s0m3_susp1c10us_str1ng}
+    flag{s0m3_susp1c10us_str1ng}
   
 
 # Task 2
   
   By inputting 23, 1337, 252 we get the flag
-  flag{sup3r_s1mpl3_x0r}
+  
+    flag{sup3r_s1mpl3_x0r}
   
