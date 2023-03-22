@@ -15,4 +15,28 @@
   By inputting 23, 1337, 252 we get the flag
   
     flag{sup3r_s1mpl3_x0r}
+
+
+# Task 3
   
+  
+    
+# Task 4
+  
+   Changing up the python script by replacing exec with print
+  
+  ![image](https://user-images.githubusercontent.com/118754984/226963700-86b32876-ae50-4fa6-9c35-3980224505c0.png)
+
+  running the script gives obfuscated code:
+  
+  ![image](https://user-images.githubusercontent.com/118754984/226964816-b119227f-e7b6-4ed7-8408-0e48388de9c3.png)
+  
+  finally the script which shows the password (thanks to cyberchef). Running the script with the correct password prints the flag:
+  
+  ![image](https://user-images.githubusercontent.com/118754984/226975871-c78ed981-51d8-4fe6-a2ba-399c712cf673.png)
+
+  
+    flag{4_m3d10cr3_m4lw4r3_ch4ll3nge}
+    
+  The script used to solve this challenge is uploaded in the this directory
+    
