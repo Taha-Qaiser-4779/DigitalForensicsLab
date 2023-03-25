@@ -19,7 +19,7 @@
 
 # Task 3
   
-  flag{r3v3rs2_2ng0n22r0ng_0z0}
+    flag{r3v3rs2_2ng0n22r0ng_0z0}
     
 # Task 4
   
